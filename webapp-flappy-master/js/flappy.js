@@ -29,9 +29,9 @@ var pipeInterval = 1.75;
 function preload() {
 
 
-game.load.image("Flapper", "../assets/flappy.png");
-game.load.audio("score", "../assets/point.ogg");
-game.load.image("pipeBlock", "../assets/pipe2-body.png")
+game.load.image("Flapper", "assets/flappy.png");
+game.load.audio("score", "assets/point.ogg");
+game.load.image("pipeBlock", "assets/pipe2-body.png")
 
 
 }
